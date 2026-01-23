@@ -143,5 +143,6 @@ Beyond tech, I actively contribute to **social initiatives**, because I believe 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh19102005&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rishabh19102005&theme=tokyonight" />
 </p>
+
