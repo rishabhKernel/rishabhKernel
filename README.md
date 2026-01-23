@@ -1,9 +1,19 @@
-# 👋 Hi, I'm Rishabh Chaurasia  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Chaurasia;Aspiring+Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things" />
+</p>
 
-🎓 3rd-year Computer Science student at Lovely Professional University  
-💻 Aspiring Software Engineer | Full Stack Develope  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</p>
+
+---
+
+🎓 **3rd-year Computer Science student at Lovely Professional University**  
+💻 Aspiring Software Engineer | Full Stack Developer  
 🌱 Learner by passion, problem-solver by mindset  
 🤝 Believer in using tech for real-world impact  
+
+<img src="https://user-images.githubusercontent.com/74038190/212259363-47b45c03-6c66-4b7e-8c2b-6d7b4f6e02e4.gif" width="100%"/>
 
 ---
 
@@ -14,60 +24,37 @@ I enjoy working across the **full stack**, understanding how systems work end-to
 
 Beyond tech, I actively contribute to **social initiatives**, because I believe technology and humanity should grow together.
 
+<img src="https://user-images.githubusercontent.com/74038190/212259363-47b45c03-6c66-4b7e-8c2b-6d7b4f6e02e4.gif" width="100%"/>
+
 ---
 
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
 </p>
-- C, C++
 
 ---
 
 ### 🌐 Web Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" />
 </p>
-
-- HTML, CSS, JavaScript  
-- React.js  
-- Node.js, Express.js  
-- REST APIs  
 
 ---
 
 ### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
-- MySQL
-- MongoDB
-   
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" />
 </p>
-
-- Git
-- Github
-- VS Code
-- npm
 
 ---
 
@@ -75,35 +62,39 @@ Beyond tech, I actively contribute to **social initiatives**, because I believe 
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)
 
+<img src="https://user-images.githubusercontent.com/74038190/212259363-47b45c03-6c66-4b7e-8c2b-6d7b4f6e02e4.gif" width="100%"/>
+
 ---
 
 ## 📂 Latest Projects  
 
-🔹 **MERN Stack Projects**  
-- 🎓 EduConnect  
+### 🎓 EduConnect  
+- 🎯 Built to simplify access to educational resources  
+- 🔐 Secure authentication and user management  
+- 📚 Centralized platform for learning content  
+- 💻 Fully responsive and user-friendly UI  
+- ⚙️ Efficient backend with RESTful APIs  
+- 🛠️ Full-stack project strengthening real-world skills  
 
-  - 🎯 Built to simplify access to educational resources  
-  - 🔐 Secure authentication and user management  
-  - 📚 Centralized platform for learning content  
-  - 💻 Fully responsive and user-friendly UI  
-  - ⚙️ Efficient backend with RESTful APIs  
-  - 🛠️ Full-stack project strengthening real-world skills  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
 
-  **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+---
 
-🔹 **Frontend Projects**  
-- 🌦️ WeatherWise  
+### 🌦️ WeatherWise  
+- 🌍 Provides real-time weather updates for any location  
+- 🔍 Search-based city weather information  
+- 🌡️ Displays temperature, humidity, and weather conditions  
+- ⚡ Fast API integration for live data  
+- 💻 Clean, responsive, and user-friendly interface  
+- 🛠️ Strengthens frontend + API handling skills  
 
-  - 🌍 Provides real-time weather updates for any location  
-  - 🔍 Search-based city weather information  
-  - 🌡️ Displays temperature, humidity, and weather conditions  
-  - ⚡ Fast API integration for live data  
-  - 💻 Clean, responsive, and user-friendly interface  
-  - 🛠️ Strengthens frontend + API handling skills  
+**Tech Stack:** HTML, CSS, JavaScript, Weather API  
 
-  **Tech Stack:** HTML, CSS, JavaScript, Weather API
+<p align="center">
+  🚧 <i>More projects coming soon</i> 🚧
+</p>
 
-> More projects coming soon 🚧
+<img src="https://user-images.githubusercontent.com/74038190/212259363-47b45c03-6c66-4b7e-8c2b-6d7b4f6e02e4.gif" width="100%"/>
 
 ---
 
@@ -119,7 +110,7 @@ Beyond tech, I actively contribute to **social initiatives**, because I believe 
 ## 📈 What I’m Currently Working On  
 
 - Strengthening **DSA & problem-solving skills**  
-- Improving **backend & database concepts**   
+- Improving **backend & database concepts**  
 - Building more **real-world full stack projects**  
 
 ---
@@ -129,16 +120,28 @@ Beyond tech, I actively contribute to **social initiatives**, because I believe 
 - Grow as a skilled and reliable **Software Engineer**  
 - Strengthen **problem-solving** and **system design** skills  
 - Build more **real-world** applications that create impact  
-- Continuously learn and adapt to new technologies   
+- Continuously learn and adapt to new technologies  
+
+<img src="https://user-images.githubusercontent.com/74038190/212259363-47b45c03-6c66-4b7e-8c2b-6d7b4f6e02e4.gif" width="100%"/>
 
 ---
 
 ## 📫 Let’s Connect  
 
 - 💼 GitHub: *You’re already here 😉*  
-- 🌐 LinkedIn: *https://www.linkedin.com/in/-rishabh/*  
-- ✉️ Email: *chaurasiarishabh397@gmail.com*  
+- 🌐 LinkedIn: https://www.linkedin.com/in/-rishabh/  
+- ✉️ Email: chaurasiarishabh397@gmail.com  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*  
+<p align="center">
+  ⭐ <i>If you like my work, feel free to star my repositories!</i> ⭐
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh19102005&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh19102005&theme=tokyonight" />
+</p>
