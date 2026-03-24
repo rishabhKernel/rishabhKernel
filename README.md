@@ -137,12 +137,3 @@ Beyond tech, I actively contribute to **social initiatives**, because I believe 
 <p align="center">
   ⭐ <i>If you like my work, feel free to star my repositories!</i> ⭐
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh19102005&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabh19102005&theme=tokyonight" />
-</p>
-
