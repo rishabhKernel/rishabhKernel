@@ -19,7 +19,7 @@
 
 ## 🚀 About Me  
 
-I'm a 3rd-year college student with a strong interest in **software development**, **problem solving**, and **building meaningful applications**.  
+I'm a Final-year college student with a strong interest in **software development**, **problem solving**, and **building meaningful applications**.  
 I enjoy working across the **full stack**, understanding how systems work end-to-end, and continuously improving my fundamentals.
 
 Beyond tech, I actively contribute to **social initiatives**, because I believe technology and humanity should grow together.
