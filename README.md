@@ -8,7 +8,7 @@
 
 ---
 
-🎓 **3rd-year Computer Science student at Lovely Professional University**  
+🎓 **Final-year Computer Science student at Lovely Professional University**  
 💻 Aspiring Software Engineer | Full Stack Developer  
 🌱 Learner by passion, problem-solver by mindset  
 🤝 Believer in using tech for real-world impact  
